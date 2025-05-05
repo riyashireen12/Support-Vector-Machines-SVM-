@@ -1,8 +1,9 @@
 # Support-Vector-Machines-SVM-
-Task 7: Support Vector Machines (SVM)
-📋 Project Overview
+#Task 7: Support Vector Machines (SVM)
 
-This project is a complete implementation of Support Vector Machines (SVM) using Scikit-learn, focused on:
+#📋 Project Overview
+
+#This project is a complete implementation of Support Vector Machines (SVM) using Scikit-learn, focused on:
 
 Binary classification using Breast Cancer dataset.
 
